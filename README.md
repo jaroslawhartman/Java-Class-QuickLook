@@ -14,6 +14,6 @@ Compiled version can be downloaded from [Release Page](https://github.com/jarosl
 
 ## References
 
-* Inspired by [Java Class Quck Look](https://github.com/louisdh/java-class-quick-look)
+* Inspired by [Java Class Quick Look](https://github.com/louisdh/java-class-quick-look)
 * [JD Project](http://jd.benow.ca/) - Java decompiler
 * [jd-cmd](https://github.com/kwart/jd-cmd) - Command line wrapper for JD-GUI 

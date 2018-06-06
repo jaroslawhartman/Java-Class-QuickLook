@@ -6,7 +6,14 @@ This Quick Look plugin allows you to decompile Java class and look at the conten
 
 ## Installation
 
-Copy `Java Class.qlgenerator` into `~/Library/QuickLook/` or `/Library/QuickLook/`. Reboot your Mac if needed.
+Copy `Java Class.qlgenerator` into `~/Library/QuickLook/` or `/Library/QuickLook/`.
+
+Restart quicklookd if needed:
+
+```
+$ qlmanage -r                                                                                                                 
+qlmanage: resetting quicklookd
+```
 
 ## Download
 

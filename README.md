@@ -8,6 +8,10 @@ This Quick Look plugin allows you to decompile Java class and look at the conten
 
 Copy `Java Class.qlgenerator` into `~/Library/QuickLook/` or `/Library/QuickLook/`. Reboot your Mac if needed.
 
+## Download
+
+Compiled version can be downloaded from [Release Page](https://github.com/jaroslawhartman/Java-Class-QuickLook/releases)
+
 ## References
 
 * Inspired by [Java Class Quck Look](https://github.com/louisdh/java-class-quick-look)
